@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "112668168458",
+    "firebase_url": "https://med-covid.firebaseio.com",
+    "project_id": "med-covid",
+    "storage_bucket": "med-covid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:112668168458:android:fa319fcb855bb66ed7eaf3",
+        "android_client_info": {
+          "package_name": "com.example.medcovid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "112668168458-vd1bq4g3frhiaesp8g716rnnopkj1fkg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAB6ttPz_np9aqRrBqvg0lhuqp3RCKw_x8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "112668168458-vd1bq4g3frhiaesp8g716rnnopkj1fkg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
